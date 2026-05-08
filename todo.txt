@@ -13,6 +13,6 @@ Testcases for the string calculator
 6. Testcase:
     „1,5,27,45“ => 78   //done
 7. Testcase:
-    „1,10,100,1000,10000“ => 11111  //in progress
+    „1,10,100,1000,10000“ => 11111  //done
 8. Testcase:
-    "1,A" => 1
+    "1,A" => 1  //in progress
