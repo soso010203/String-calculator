@@ -15,4 +15,4 @@ Testcases for the string calculator
 7. Testcase:
     „1,10,100,1000,10000“ => 11111  //done
 8. Testcase:
-    "1,A" => 1  //in progress
+    "1,A" => 1  //done
