@@ -1,9 +1,9 @@
 Testcases for the string calculator
 
 1. Testcase: 
-    „“ => 0     //in progress
+    „“ => 0     //done
 2. Testcase:
-    „1“ => 1
+    „1“ => 1    //in progress
 3. Testcase:
     „1,2“ => 3
 4. Testcase:
