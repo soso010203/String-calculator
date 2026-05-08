@@ -13,7 +13,12 @@ StringCalculator.prototype.add = function(string_numbers)
 
 		for (let i = 0; i < numbers.length; i++)
 		{
-			sum += parseInt(numbers[i], 10);
+			let value = parseInt(numbers[i], 10);
+
+			if (!isNaN(value))
+			{
+				sum += value;
+			}
 		}
 
 		return sum;
