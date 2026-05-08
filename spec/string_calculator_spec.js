@@ -24,4 +24,7 @@ describe('String Calculator', function() {
 	it('should return the sum of multiple numbers', function() {
 		expect(calculator.add('1,10,100,1000,10000')).toEqual(11111);
 	});
+	it('should return the number of a string that includes characters', function() {
+		expect(calculator.add('1,A')).toEqual(1);
+	});
 });
