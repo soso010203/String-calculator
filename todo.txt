@@ -7,9 +7,9 @@ Testcases for the string calculator
 3. Testcase:
     „1,2“ => 3  //done
 4. Testcase:
-    "1,27" => 28    //in progress
+    "1,27" => 28    //done
 5. Testcase:
-    "15,17,21" => 53
+    "15,17,21" => 53    //in progress
 6. Testcase:
     „1,5,27,45“ => 78
 7. Testcase:
