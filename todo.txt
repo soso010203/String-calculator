@@ -11,8 +11,8 @@ Testcases for the string calculator
 5. Testcase:
     "15,17,21" => 53    //done
 6. Testcase:
-    „1,5,27,45“ => 78   //in progress
+    „1,5,27,45“ => 78   //done
 7. Testcase:
-    „1,10,100,1000,10000“ => 11111
+    „1,10,100,1000,10000“ => 11111  //in progress
 8. Testcase:
     "1,A" => 1
