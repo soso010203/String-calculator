@@ -12,4 +12,7 @@ describe('String Calculator', function() {
 	it('should return the sum of two numbers', function() {
 		expect(calculator.add('1,2')).toEqual(3);
 	});
+	it('should return the sum of two numbers', function() {
+		expect(calculator.add('1,27')).toEqual(28);
+	});
 });
