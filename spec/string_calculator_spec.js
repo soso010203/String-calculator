@@ -15,4 +15,7 @@ describe('String Calculator', function() {
 	it('should return the sum of two numbers', function() {
 		expect(calculator.add('1,27')).toEqual(28);
 	});
+	it('should return the sum of three numbers', function() {
+		expect(calculator.add('15,17,21')).toEqual(53);
+	});
 });
