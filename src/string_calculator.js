@@ -6,7 +6,7 @@ StringCalculator.prototype.add = function(string_numbers)
 	{
 		return 0;
 	}
-	else if(string_numbers.includes(','))
+	else
 	{
 		let numbers = string_numbers.split(',');
 		let sum = 0;
@@ -23,8 +23,5 @@ StringCalculator.prototype.add = function(string_numbers)
 
 		return sum;
 	}
-	else
-	{
-		return parseInt(string_numbers); //wandelt string in int um
-	}
+	
 };
